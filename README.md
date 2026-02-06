@@ -1,2 +1,2 @@
 # flixiupdates
-Testing space for Firmware and filesystem updates for Flixi systems
+Testing space for updates to Flixi systems
